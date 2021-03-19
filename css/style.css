@@ -1,0 +1,320 @@
+/* -------------Navbar start----------- */
+
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 11%;
+	width: 80%;
+	background-color: #1A2F36
+
+}
+
+
+ul, li, a{
+	float: left;
+	text-decoration: none;
+}
+
+.nav_link a{
+	list-style: none;
+	color: white;
+}
+
+.nav_link li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+/* -------------Navbar end----------- */
+
+
+
+/* -------------Banner start----------- */
+.bannerimage{
+	display: block;
+	position: absolute;
+	width: auto;
+	max-height: 1080px;
+
+}
+
+.headertext{
+	color: white;
+	font-size: 50px;
+}
+
+.fiverrbutton{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: 15px 25px;
+    position: absolute;
+    margin-left: 30px
+}
+
+
+.fiverrtext{
+	color: white;
+}
+
+.githubbutton{
+	margin-left: 50px: 
+	position:relative;
+	background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px 25px;
+
+}
+.githubtext{
+	color: white;
+}
+
+.fiverr{
+	margin-bottom: 5px;
+}
+
+
+
+.herosection{
+	position: relative;
+	text-align: center;
+	padding-top: 80px;
+}
+
+
+
+button{
+	width: auto;
+	margin-right: 250px;
+	border-radius: 30px
+}
+
+/* -------------Banner end----------- */
+
+
+/* -------------Abut me Start----------- */
+
+.aboutpic{	
+	margin-top: 200px
+	margin-left: 26px
+	width: 50%
+	float: bottom right;
+	position: absolute;
+
+}
+.bannerimage{
+	position: absolute;
+	width: 100%
+}
+
+.text_container{
+	position: relative;
+	float: right;
+	width: 50%;
+	top: 450px;
+}
+
+
+h1{
+	font-color: #9CC319;
+	font-size: 45px
+	margin-top: 100px;
+
+}
+
+p{
+	font-size: 30px
+}
+
+
+
+/* -------------Portfolio/ HTML elements Reference----------- */
+
+.abbr{
+	border-bottom: 1px solid black;
+}
+
+
+.address{
+	border-bottom: 1px solid black;
+}
+
+.form{
+	border-bottom: 1px solid black;
+}
+
+.iframe{
+	border-bottom: 1px solid black;
+}
+
+.form{
+	border-bottom: 1px solid black;
+}
+
+.table{
+	border-bottom: 1px solid black;
+}
+
+.i{
+	border-bottom: 1px solid black;
+}
+.ins{
+	border-bottom: 1px solid black;
+}
+.mark{
+	border-bottom: 1px solid black;
+}
+.meter{
+	border-bottom: 1px solid black;
+}
+.pre{
+	border-bottom: 1px solid black;
+}
+.progress{
+	border-bottom: 1px solid black;
+}
+.q{
+	border-bottom: 1px solid black;
+}
+.small{
+	border-bottom: 1px solid black;
+}
+.strong{
+	border-bottom: 1px solid black;
+}
+.sub{
+	border-bottom: 1px solid black;
+}
+.template{
+	border-bottom: 1px solid black;
+}
+.time{
+	border-bottom: 1px solid black;
+}
+.wbr{
+	border-bottom: 1px solid black;
+}
+.form{
+	border-bottom: 1px solid black;
+}
+.input{
+	border-bottom: 1px solid black;
+}
+.textarea{
+	border-bottom: 1px solid black;
+}
+.button{
+	border-bottom: 1px solid black;
+}
+.optgroup{
+	border-bottom: 1px solid black;
+}
+.label{
+	border-bottom: 1px solid black;
+}
+.fieldset{
+	border-bottom: 1px solid black;
+}
+.atalist{
+	border-bottom: 1px solid black;
+}
+.output{
+	border-bottom: 1px solid black;
+}
+.svg{
+	border-bottom: 1px solid black;
+}
+.nav{
+	border-bottom: 1px solid black;
+}
+
+
+
+
+
+.blue{
+     color: blue ;
+}
+
+.box{
+	width:100px;
+    height:70px;
+} 
+
+.box1{
+	background-color:green;
+    margin-top:100px;
+    margin-right:50px;
+    margin-bottom:30px;
+    margin-left:10px;
+
+
+}
+.box2{
+	background-color:purple;
+	margin:100px 50px 30px 10px;
+}
+
+.box3{
+      background-color:orange;
+       padding:50px; 
+       border: 5px solid blue;
+}
+.header{
+      min-height:80px;
+     background-color:#EF1022;
+}
+
+.wrapper{
+	overflow: hidden;
+     /*border:5px solid black;*/  
+}
+
+.blog{
+    float: left;
+	width: 60%;
+    min-height:150px;
+    background-color: #E89417;
+
+}
+.contact{
+       float: right;
+	   width: 40%;
+       min-height:150px;
+       background-color:#3f43c0;
+}
+
+
+.single{
+	float:left;
+	width:33.3%;
+    min-height: 150px;
+
+  
+}
+
+.box4{
+    background-color:#a21be4;
+
+}
+
+.box5{
+	background-color: lime;
+
+}
+
+.box6{
+	background-color: violet;
+
+}
+
+.footer{
+	 min-height:80px;
+     background-color:#2FD0AB;
+}
